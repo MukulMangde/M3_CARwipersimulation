@@ -29,20 +29,20 @@ The board cannot be soon replaced once it is repaired.
 
 ##High level requirements
 
-ID	          Discription	       status
 
 
-HR_01    Wiper turned on	      Implemente
+
+HR_01    Wiper turned on	    -  Implemente
 
 
-HR_02	    Wiper turned off	    Implemented
+HR_02	    Wiper turned off	 -   Implemented
 
 
 ##Low level requirements
-ID	             Discription	                                          status
 
 
-LR_01	           Button pressed ONCE for 2sec  - ON LED            	Implemented
+
+LR_01	           Button pressed ONCE for 2sec(ON LED)            -	Implemented
 
 
-LR_02	           Button pressed once again for 4 sec - OFF LED 	    Implemented
+LR_02	           Button pressed once again for 4 sec(OFF LED) 	  -  Implemented
