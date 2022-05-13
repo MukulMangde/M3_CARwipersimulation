@@ -1,0 +1,5 @@
+##Abstract
+### CARWIPER- SIMULATION
+My goal is to use the STM-32 board to demonstrate a wiper system. The board comprises LEDs, which we must use to illustrate the wiper system.
+Most wipers include a low, high, and intermittent speed option, as well as an intermittent mode. The motor runs constantly when the wipers are set to low or high speed. Some cars have only one intermittent speed option, while others have ten independent settings and still others include a sliding scale that may be set for nearly any time interval. To demonstrate this simulation we cannot show wiper movement in the simulation so instead of wiper I have used a red light that will help to understand the movement of the wiper
+For example when the push-button is pressed for 2 sec the led will start blinking means the wiper is on and likewise when the push-button is pressed for 4 sec the lead blinking will stop means the wiper stops. This way I have shown the simulation of Wiper in the car with the help of Led light.	
