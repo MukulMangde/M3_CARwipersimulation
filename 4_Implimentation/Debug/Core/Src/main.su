@@ -1,6 +1,0 @@
-../Core/Src/main.c:43:5:main	16	static
-../Core/Src/main.c:67:7:Init_OnBoard_LEDs	32	static
-../Core/Src/main.c:77:7:configure_Button	32	static
-../Core/Src/main.c:88:7:Delay_ms	24	static
-../Core/Src/main.c:126:6:SystemClock_Config	88	static
-../Core/Src/main.c:171:6:Error_Handler	4	static,ignoring_inline_asm
