@@ -1,23 +1,28 @@
 Block diagram
-!(https://user-images.githubusercontent.com/102212321/168426013-1dbceb17-554f-4c73-a755-a0ed899561a4.JPG)
+![design block diagram](https://user-images.githubusercontent.com/102212321/168426159-c53429f6-2325-4c86-a6ff-7ee7fa4316b2.JPG)
+
 
 
 
 High level diagram
+![high level diagram](https://user-images.githubusercontent.com/102212321/168426163-12676fbb-c44b-4f8a-b5b1-51f86c39c7c2.JPG)
 
-(https://user-images.githubusercontent.com/102212321/168426029-9366fafe-13c5-4f48-a93c-ddb489eba620.JPG)
+
 
 
 
 Low level diagram
-!(https://user-images.githubusercontent.com/102212321/168426037-40e6351a-5719-4187-9bf4-221acadc7aba.JPG)
+![low level diagram](https://user-images.githubusercontent.com/102212321/168426169-77d076f1-97ae-4074-9532-8ddb759d66a2.JPG)
+
 
 
 
 Program board diagram
-!(https://user-images.githubusercontent.com/102212321/168426054-b60f9780-f54b-4e69-bcd4-931512262e28.JPG)
+![components diagram](https://user-images.githubusercontent.com/102212321/168426178-626619f3-4732-4c59-9e73-9b5c2336b2dc.JPG)
+
 
 
 
 Stm32 cude ide environment
-!(https://user-images.githubusercontent.com/102212321/168426060-2b97c08b-fb55-4fbe-a2ac-d67a9291853e.JPG)
+![Capture](https://user-images.githubusercontent.com/102212321/168426182-b4619ab1-d039-4e2f-944f-895eedcd7793.JPG)
+
