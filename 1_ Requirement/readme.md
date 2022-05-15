@@ -2,12 +2,12 @@ The principal function of this WiperControl System, which is used in all types o
 Because driving a vehicle in the rain is possible, deiver use wipers to clean the wind shield, so we can drive it even in the rain.
 
 
-PROCESS OF WORKING
+# PROCESS OF WORKING
 Wipers switch on after 2 seconds of pressing the button.(onn is lead)
 Wipers switch off after 4 seconds of pressing the button. (LED is turned off)
 
 
-Analysis of SWOT
+# Analysis of SWOT
 
 Strength
 Visibility
@@ -15,19 +15,19 @@ Safety
 
 
 
-Weakness
+# Weakness
 High price
 
 
 
-Threats
+# Threats
 The board cannot be soon replaced once it is repaired.
 
 
 
 
 
-##High level requirements
+## High level requirements
 
 
 
@@ -38,7 +38,7 @@ HR_01    Wiper turned on	    -  Implemente
 HR_02	    Wiper turned off	 -   Implemented
 
 
-##Low level requirements
+## Low level requirements
 
 
 
